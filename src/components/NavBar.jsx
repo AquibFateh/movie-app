@@ -11,7 +11,7 @@ function NavBar() {
           Home
         </Link>
         <Link to="/favourites" className="nav-link">
-          Foavourites
+          Favourites
         </Link>
       </div>
     </nav>
